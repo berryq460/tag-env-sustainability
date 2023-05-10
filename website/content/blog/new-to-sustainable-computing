@@ -1,0 +1,53 @@
+# Beginner's Guide to Contributing to CNCF Environmental Sustainability TAG
+
+Welcome to the CNCF Environmental Sustainability TAG! We are a group of individuals who are passionate about promoting sustainability practices in the world of cloud computing. Our goal is to advocate for, develop, support, and help evaluate environmental sustainability initiatives in cloud-native technologies. 
+
+This guide was made with everyone in mind. No matter your educational background, you can help us achieve our mission by contributing to discussions, sharing ideas, and promoting sustainability initiatives in your organization. You don't need to be an expert in cloud computing or sustainability to get involved - everyone is welcome! This is a planetary issue that will take all hands on deck to solve and the more schools of thought devising solutions and acting to reduce carbon emissions, the better!
+
+## Getting Started Contributing
+
+Here are a few ways you can get started contributing to our project today!
+
+- Join the conversation: Take a look at the existing discussions on [Slack](https://cncf.slack.com/messages/tag-env-sustainability), [GitHub](https://github.com/cncf/tag-env-sustainability), and our [mailing list](https://lists.cncf.io/g/cncf-tag-env-sustainability/topics) and share your thoughts or attend our meetings. We welcome all perspectives and ideas. Feel free to share and read the latest advancements in green tech.
+- Learn more about how to contribute and contribute to our [current projects](https://github.com/cncf/tag-env-sustainability/blob/main/projects.md).
+- Propose new initiatives: Do you have an idea for a new sustainability initiative the CNCF community could undertake? Share it with us and start a discussion!
+- Spread the word: Help us promote sustainable practices in your own organization and beyond. Check out our latest [survey results](https://docs.google.com/forms/d/e/1FAIpQLSffW2RkNvF8P_Ctyq3gqNNBZCtwzv2opJjKQ1QNXcIItCmPvQ/viewanalytics), share your experiences at your organization, and stay tuned for future surveys.
+- Meet us at open-source events and attend one of our workshops.
+
+Since we do not develop software directly, you don't need to know any programming language to participate. Our repository [github.com/cncf/tag-env-sustainability](https://github.com/cncf/tag-env-sustainability) is used for organizational purposes to organize our work in the open and share it with anyone interested.
+
+## What’s Cloud Native Technology?
+
+“Cloud-Native” Technology, is a term brought to popularity around the inception of the CNCF and is about building applications that are designed to run on cloud infrastructure along with the best practices and principles that keep healthy software so that it remains agile, scalable, and reliable, flexible, cost-efficient and resilient much like a living biological system. You can think of cloud-native applications as being like plants in a greenhouse – that within specific environments, resources, and conditions, the plants will thrive to their full potential.
+
+In the same way that plants need nutrients to grow, cloud-native applications require specific infrastructure components to operate efficiently. These components, such as containers, microservices, and APIs, are like the nutrients that provide the necessary resources and conditions for cloud-native applications to thrive optimally. These components work together to provide the necessary resources and conditions for cloud-native applications to function and scale effectively.
+
+Containers are like the soil that provides a stable foundation for plant growth. Just as soil provides plants with nutrients and support, containers provide cloud-native applications with a secure and isolated environment to operate within. Similarly, microservices are like the roots of a plant, connecting different parts of the application and allowing it to operate efficiently. APIs are like the leaves of a plant, interacting with the external environment and exchanging information with other systems. Similarly, just as plants grow and adapt to their environment over time, cloud-native applications can adapt and scale dynamically based on the needs of the organization. This is because cloud-native applications are designed to be flexible and resilient, allowing them to handle fluctuations in traffic and usage without compromising performance.
+
+Finally, just as plants are part of a larger ecosystem that includes other plants, animals, and natural resources, cloud-native technology is part of a larger ecosystem that includes other cloud services, platforms, and infrastructure components. By working together and leveraging the strengths of each component, cloud-native technology can operate at maximum efficiency and promote sustainability in the cloud.
+
+# How the Cloud Relates to Sustainability
+
+Sustainability is all about ensuring that we are meeting our needs without compromising the ability of future generations to meet their own needs. Like gardeners, we can contribute to nurturing the sustainability of the cloud. In the context of the cloud-native ecosystem, this means building applications that are efficient, optimized, and minimize waste. This is important not only from an environmental perspective but also from a business perspective – after all, inefficient applications can be costly and ultimately unsustainable in the long term. By optimizing resource utilization, minimizing waste, and using renewable energy sources, we can build applications that are both business efficient and environmentally friendly.
+
+So, why is it crucial to promote sustainability in the cloud-native ecosystem? Research shows, Cloud computing has a significant carbon footprint – in fact, it's estimated that the data centers that power the internet consume around 1-1.5% of the world's global electricity use. Additionally studies show, millions of gallons of water are used annually for data centers. The data centers used to run the cloud come at a cost to the planet as they are run by fossil fuels and are rising with increased internet and AI usage. By promoting sustainability in the cloud-native ecosystem, we can reduce this footprint and help to mitigate the impact of technology on the environment.
+
+In conclusion, a cloud-native ecosystem is a powerful tool for building and deploying applications at scale. But as we continue to develop and improve these applications, it's important that we keep sustainability at the forefront of cloud-native development. By advocating for the building of applications that are efficient, optimized, and environmentally friendly, we can create a more sustainable future for ourselves and for future generations. So let's start building sustainable cloud-native applications today – our current planet, businesses, and future generations will thank us for it.
+
+# How to Contribute to Cloud Environmental Sustainability
+
+Plant your seed in promoting the growth of sustainability in the cloud. 🌱
+
+1. **Educate yourself** (like you’re doing now! 👏🏅): By learning about cloud-native technology and sustainability, you can become more informed and aware of the issues at hand. This can help you make more informed decisions as a consumer and voter, and can also help you to advocate for sustainability in your community.
+
+2. **Support sustainable practices:** Look for organizations and services that prioritize sustainability in their operations. For example, you might choose a cloud service provider that uses renewable energy sources, or you might look for software that is designed to minimize resource usage. If you only do business with tech companies serious about sustainability.
+
+3. **Reduce your digital footprint:** Just like reducing your physical footprint can help reduce your impact on the environment, reducing your digital footprint can help reduce your impact on the cloud. For example, you might try to use digital services less frequently or choose services that have lower resource requirements.
+
+4. **Advocate for sustainability:** Whether it's through this group, social media, community events, or conversations with your work colleagues, friends, and family, you can help raise awareness about the importance of sustainability in the cloud. By advocating for changes such as: for data centers to be run on renewable energy sources, you can help create a more sustainable future for everyone. Kepler's open-source project is now one of the projects to consider!
+
+Overall, the goal of this guide is to remove all barriers to entry to participate. As you can see everyone from all walks of life can help promote sustainability in the cloud. By becoming informed, making conscious choices, and advocating for change, we can all contribute to a more sustainable future. Congratulations on reading this far! 🏅
+
+We look forward to collaborating with you and making a positive impact on the world of cloud computing together! Remember, the goal is to have fun and learn something new while making a positive impact on sustainability and the open-source community. 
+
+You can reach TAG Environmental Sustainability over the CNCF Slack in the channel #tag-env-sustainability or join directly one of our public meetings and introduce yourself (see calendar).
